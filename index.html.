@@ -1,39 +1,97 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <title>Project:Final</title>
         <meta charset="utf-8">
-        <title>Project: Blog</title>
         <style>
-        Body{
-            font-family:fantasy;
-            color:blue;
-            font-size:17px;
-            font-weight:bold;
-            font-style: normal;
+        
+        #Pic{
+             float:right;
+             padding:10px;
+              border: 1px solid white;
         }
-            
-            
+       body {
+           color:white;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Hyades.jpg/1200px-Hyades.jpg");
+}
+        #Words{
+            color:white;
+        }
+        #Head{
+            color:red;
+        }
+        a {
+  color: hotpink;
+}
+        #b{
+            color:white;
+        }
+        #c{
+            color:lightblue;
+        }
+        #d{
+            color:red;
+        }
+        #e{
+            color:green;
+        }
+        a:link {
+            color: red;
+        }
+        a:hover {
+           color:blue;
+        }
+        #b:hover{
+            color:green;
+        }
+        #c:hover{
+            color:white;
+        }
+        #d:hover{
+            color:purple;
+        }
+        #e:hover{
+            color:yellow;
+        }
+        #picture{
+             position: absolute;
+             right:207px;
+        }
         </style>
     </head>
     <body>
+       
+       <div class id="Head">  <h1>Top five guitar players of all time</h1></div>
+        <br>
         
-        <h1>Triston's blog</h1>
-
-        <h3>Contents</h3>
-        <ul>
-            <li>first blog
-            <li>Second blog,</li>
-        </ul>
-        
-        <h2>First post</h2>
-        <h6>May 15, 2020</h6>
-        
-        <p>I have learned how to code more html tags which makes me feel great because I like coding and this makes me more happy</p>
-        <h2>Second post</h2>
-        <h6>May 15, 2020</h6>
-        
-        <p>I am currently doin a blog for a project which is for a grade so I am trying to complete it now. I don't really like writing blogs 
-        
-        
-    </body>
-</html>
+    <div class id="Head"> <h3>Jimi Hendrix</h3></div>
+<img div id="Pic" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Jimi_Hendrix_1967_uncropped.jpg/220px-Jimi_Hendrix_1967_uncropped.jpg" width="150">Guitar legend <a href="https://jimihendrix.com/biography/">Jimi Hendrix</a>is born in Seattle. Hendrix grew up playing guitar, imitating blues greats like Muddy Waters as well as early rockers.As 1970 progressed, Jimi brought back drummer Mitch Mitchell to the group and together with Billy Cox on bass, they again formed The Jimi Hendrix Experience. In the studio, the group recorded several tracks for another two LP set, tentatively titled First Rays Of The New Rising Sun. Unfortunately, Hendrix was unable to see this musical vision through to completion due to his hectic worldwide touring schedules, then tragic death on September 18, 1970. Fortunately, the recordings Hendrix slated for release on the album were finally issued through the support of his family and original studio engineer Eddie Kramer on the 1997 release First Rays Of The New Rising Sun.
+<br>
+<br>
+ <div class id="Head"><h3>Jimmy Page</h3></div>
+<img div id="Pic" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Jimmy_Page_-_A.R.M.S._Concert%2C_Oakland%2C_Ca._1983.jpg" width="150">
+<a class id="b" href="https://www.thefamouspeople.com/profiles/james-patrick-page-1851.php#:~:text=Jimmy%20Page%20is%20an%20English,studio%20session%20musician%20in%20London.">Jimmy Page</a> is an English musician who rose to fame as the guitarist and leader of the popular rock band 'Led Zeppelin. 'Also a talented songwriter and multi-instrumentalist, he began his career as a studio session musician in London.
+<br>
+<br>
+ <div class id="Head"><h3>Eddie Van Halen</h3></div>
+<img div id="Pic" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Eddie_Van_Halen_at_the_New_Haven_Coliseum_2.jpg"width="100">
+Guitarist and singer <a class id="c" href="https://www.biography.com/musician/eddie-van-halen">Eddie Van Halen</a> formed the band Van Halen in 1974 with his brother Alex. His quick-fingered guitar riffs and singer David Lee Roth's caught the eye of Kiss guitarist Gene Simmons in 1977, and he funded first recording session. The band's sixth album, 1984, featured hits "Panama" and "Jump," and made the hard rock most popular album.
+<br>
+<br>
+     <div class id="Head"><h3>Slash</h3></div>
+<img div id="Pic" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Slash_live_in_Rome_by_Paride.jpg" width="150">
+<a class id="d" href="https://www.biography.com/musician/slash#:~:text=Saul%20Hudson%2C%20better%20known%20as,London%20on%20July%2023%2C%201965.&text=Slash%20lived%20with%20his%20father,his%20mother%20in%20Los%20Angeles.">Slash</a> (Saul Hudson), was born to an African American mother and British father in London on July 23, 1965.He took practice guitar when he was 14, practing sometimes 12 hours a day. He joined many bands untill Rose and Stradlin asked Slash to join their new band, Guns N' Roses. They went on to make many great hits with their most famous "Sweet Child o' Mine,".
+<br>
+<br>
+ <div class id="Head"><h3>Eric Clapton</h3></div>
+<img div id="Pic" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Eric_%22slowhand%22_Clapton.jpg/220px-Eric_%22slowhand%22_Clapton.jpg" width="150">
+<a class id="e" href="https://en.wikipedia.org/wiki/Eric_Clapton?scrlybrkr=e24ee9d0">Eric Clapton</a> is an English rock and blues guitarist, singer, and songwriter. He is the only three-time inductee to the Rock and Roll Hall of Fame: once as a solo artist and separately as a member of the Yardbirds and of Cream. Clapton has been referred to as one of the most important and influential guitarists of all time. Clapton ranked second in Rolling Stone's list of the "100 Greatest Guitarists of All Time". He was also named number five in Time magazine's list of "The 10 Best Electric Guitar Players" in 2009.
+<br>
+<br>
+<br>
+<br>
+Click the guitar below to find more top guitarist of all time
+<br>
+<a href="https://www.aimm.edu/blog/the-top-10-guitarists-of-all-time">
+<img class id="picture" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fender_Highway_1_Stratocaster.jpg/170px-Fender_Highway_1_Stratocaster.jpg">
+</a>
