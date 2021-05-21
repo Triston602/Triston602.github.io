@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+        Body{
+            font-family:fantasy;
+            color:blue;
+            font-size:17px;
+            font-weight:bold;
+            font-style: normal;
+        }
+            
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1>Triston's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li>first blog
+            <li>Second blog,</li>
+        </ul>
+        
+        <h2>First post</h2>
+        <h6>May 15, 2020</h6>
+        
+        <p>I have learned how to code more html tags which makes me feel great because I like coding and this makes me more happy</p>
+        <h2>Second post</h2>
+        <h6>May 15, 2020</h6>
+        
+        <p>I am currently doin a blog for a project which is for a grade so I am trying to complete it now. I don't really like writing blogs 
+        
+        
+    </body>
+</html>
